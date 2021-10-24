@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## wow i am committed. i am so cool
 
 You can use the [editor on GitHub](https://github.com/darrentweng/stop-bullying/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
